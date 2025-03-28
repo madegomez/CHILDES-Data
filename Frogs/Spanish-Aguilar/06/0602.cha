@@ -1,0 +1,317 @@
+@UTF8
+@PID:	11312/a-00073413-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child, CES Investigator
+@Options:	multi
+@ID:	spa|Spanish-Aguilar|CHI|6;09.||||Target_Child|||
+@ID:	spa|Spanish-Aguilar|CES|||||Investigator|||
+@Birth of CHI:	07-SEP-1995
+@G:	01
+@Types:	cross, narrative, TD
+*CHI:	el niño está viendo el (.) cómo se llama ?
+%mor:	det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|ver-Ger-S det|el-Masc-Def-Art pron|cómo-Ind-S1 pron|él-Prs-Acc-S3 verb|llamar-Fin-Ind-Pres-S3 ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|8|DET 6|8|OBL 7|8|EXPL-PV 8|4|CCOMP 9|4|PUNCT
+*CES:	el qué ?
+%mor:	det|el-Masc-Def-Art pron|qué-Int-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	el sapo !
+%mor:	det|el-Masc-Def-Art noun|sapo-Masc !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	y el perro se está asomando al (.) (.) (.) frasco .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|asomar-Ger-S det|al-Masc-Def-Art noun|frasco-Masc .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBL 9|6|PUNCT
+*CES:	ajá !
+%mor:	noun|ajá !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y se le puede atorar la cabeza .
+%mor:	cconj|y pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 aux|poder-Fin-Ind-Pres-S3 verb|atorar-Inf-S det|el-Fem-Def-Art noun|cabeza-Fem .
+%gra:	1|5|ADVMOD 2|5|EXPL-PASS 3|5|OBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+*CES:	&=risa ajá (.) bueno .
+%mor:	intj|ajá adj|buen-Pos-S1 .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+*CHI:	y que el niño debe que arreglar su cuarto .
+%mor:	cconj|y sconj|que det|el-Masc-Def-Art noun|niño-Masc verb|deber-Fin-Ind-Pres-S3 sconj|que verb|arreglar-Inf-S det|su-Def-Prs noun|cuarto-Masc .
+%gra:	1|5|ADVMOD 2|7|MARK 3|4|DET 4|7|NSUBJ 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT
+*CHI:	no debe de tener su playera tirada .
+%mor:	adv|no aux|deber-Fin-Ind-Pres-S3 adp|de verb|tener-Inf-S det|su-Def-Prs noun|playera-Fem adj|tirado-Pos-S1 .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|MARK 4|7|ROOT 5|6|DET 6|4|OBJ 7|6|AMOD 8|4|PUNCT
+*CHI:	qué es esto ?
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%com:	señala un objeto en el dibujo
+*CES:	unos calcetines .
+%mor:	det|uno-Masc-Ind-Art noun|calcetín-Masc-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	calcetines (.) (.) no tenerlos tirados (.) sus botas no tiradas .
+%mor:	noun|calcetín-Masc-Plur adv|no verb|tener-Inf-S adj|tirado-Pos-P1 det|su-Def-Prs noun|bota-Fem-Plur adv|no adj|tirado-Pos-P1 .
+%gra:	1|8|ROOT 2|3|ADVMOD 3|1|ACL 4|3|XCOMP 5|6|DET 6|3|OBJ 7|8|ADVMOD 8|6|AMOD 9|1|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y estar durmiendo (.) (.) al niño .
+%mor:	cconj|y aux|estar-Inf-S verb|dormir-Ger-S det|al-Masc-Def-Art noun|niño-Masc .
+%gra:	1|3|ADVMOD 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CES:	okey cuando quieras (.) le pasas a la siguiente hoja .
+%mor:	intj|okey sconj|cuando verb|querer-Fin-Ind-Pres-S2 pron|él-Prs-Dat-S3 verb|pasar-Fin-Ind-Pres-S2 adp|a det|el-Fem-Def-Art adj|siguiente-Pos-S1 noun|hoja-Fem .
+%gra:	1|5|DEP 2|3|MARK 3|5|ADVCL 4|5|OBJ 5|9|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|5|PUNCT
+*CES:	cuando termines le pasas a la siguiente hoja .
+%mor:	sconj|cuando verb|terminar-Fin-Ind-Pres-S2 pron|él-Prs-Dat-S3 verb|pasar-Fin-Ind-Pres-S2 adp|a det|el-Fem-Def-Art adj|siguiente-Pos-S1 noun|hoja-Fem .
+%gra:	1|2|MARK 2|4|ADVCL 3|4|OBJ 4|8|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|4|PUNCT
+%com:	pasa a la hoja siguiente
+@G:	02
+*CHI:	que el niño antes de dormirse tiene que sacar al sapo .
+%mor:	sconj|que det|el-Masc-Def-Art noun|niño-Masc adv|antes adp|de verb|dormirsar-Inf-S verb|tener-Fin-Ind-Pres-S3 sconj|que verb|sacar-Inf-S det|al-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|9|MARK 2|3|DET 3|9|NSUBJ 4|9|ADVMOD 5|6|MARK 6|4|ADVCL 7|11|ROOT 8|9|CC 9|7|CONJ 10|11|DET 11|9|OBJ 12|7|PUNCT
+*CHI:	porque si no el sapo no puede respirar y se va a morir .
+%mor:	sconj|porque sconj|si adv|no det|el-Masc-Def-Art noun|sapo-Masc adv|no aux|poder-Fin-Ind-Pres-S3 verb|respirar-Inf-S cconj|y pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|morir-Inf-S .
+%gra:	1|8|MARK 2|8|MARK 3|8|ADVMOD 4|5|DET 5|8|NSUBJ 6|8|ADVMOD 7|8|AUX 8|13|ROOT 9|11|CC 10|11|EXPL-PV 11|8|CONJ 12|13|MARK 13|11|XCOMP 14|8|PUNCT
+*CHI:	y antes de dormirse debía de recoger <sus> [/] sus pantuflas su playera y sus calcetines .
+%mor:	cconj|y adv|antes adp|de verb|dormirsar-Inf-S aux|deber-Fin-Ind-Imp-S3 adp|de verb|recoger-Inf-S det|su-Def-Prs noun|pantufla-Fem-Plur det|su-Def-Prs noun|playera-Fem cconj|y det|su-Def-Prs noun|calcetín-Masc-Plur .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|4|MARK 4|2|ADVCL 5|7|AUX 6|7|MARK 7|14|ROOT 8|9|DET 9|7|OBJ 10|11|DET 11|7|OBJ 12|14|CC 13|14|DET 14|11|CONJ 15|7|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y sus botas .
+%mor:	cconj|y det|su-Def-Prs noun|bota-Fem-Plur .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	03
+*CHI:	y acá el niño está pensando (.) porqué no recogió nada .
+%mor:	cconj|y adv|acá det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|pensar-Ger-S pron|porqué-Int-S1 adv|no verb|recoger-Fin-Ind-Past-S3 pron|nada-Neg-S1 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|10|ROOT 7|9|OBL 8|9|ADVMOD 9|6|CCOMP 10|9|OBJ 11|6|PUNCT
+*CES:	ajá (.) sí ?
+%mor:	intj|ajá intj|sí ?
+%gra:	1|2|ROOT 2|1|ADVCL 3|1|PUNCT
+*CHI:	y porque el sapo se le escapó .
+%mor:	cconj|y sconj|porque det|el-Masc-Def-Art noun|sapo-Masc pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 verb|escapar-Fin-Ind-Past-S3 .
+%gra:	1|7|ADVMOD 2|7|MARK 3|4|DET 4|7|NSUBJ 5|7|EXPL-PV 6|7|OBJ 7|7|ROOT 8|7|PUNCT
+*CES:	ujúm .
+%mor:	noun|ujúm-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y porque tiene todo regado y el sapo no podía respirar .
+%mor:	cconj|y sconj|porque verb|tener-Fin-Ind-Pres-S3 pron|todo-Tot-S1 adj|regado-Pos-S1 cconj|y det|el-Masc-Def-Art noun|sapo-Masc adv|no aux|poder-Fin-Ind-Imp-S3 verb|respirar-Inf-S .
+%gra:	1|3|ADVMOD 2|3|MARK 3|11|ROOT 4|3|OBJ 5|3|OBJ 6|11|CC 7|8|DET 8|11|NSUBJ 9|11|ADVMOD 10|11|AUX 11|3|CONJ 12|3|PUNCT
+*CES:	ajá (.) qué pasa ?
+%mor:	verb|ajar-Fin-Ind-Pres-S3 pron|qué-Int-S1 verb|pasar-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|CCOMP 4|1|PUNCT
+@G:	04
+*CHI:	y acá que está buscando el sapo .
+%mor:	cconj|y adv|acá pron|que-Rel-S1 aux|estar-Fin-Ind-Pres-S3 verb|buscar-Ger-S det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	y al perro se le atora .
+%mor:	cconj|y det|al-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 verb|atorar-Fin-Ind-Pres-S3 .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PV 5|6|OBJ 6|6|ROOT 7|6|PUNCT
+*CHI:	<tira su> [/] (.) <y tir> [//] y se baja de la cama .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|bajar-Fin-Ind-Pres-S3 adp|de det|el-Fem-Def-Art noun|cama-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	recoge sus pantalones y los pone en su cama .
+%mor:	verb|recoger-Fin-Ind-Pres-S3 det|su-Def-Prs noun|pantalón-Masc-Plur cconj|y pron|él-Prs-Acc-P3 verb|poner-Fin-Ind-Pres-S3 adp|en det|su-Def-Prs noun|cama-Fem .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|6|CC 5|6|OBJ 6|1|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+*CHI:	<y> [/] y está viendo en la bota si está el sapo y no está .
+%mor:	cconj|y aux|estar-Fin-Ind-Pres-S3 verb|ver-Ger-S adp|en det|el-Fem-Def-Art noun|bota-Fem sconj|si verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|sapo-Masc cconj|y adv|no verb|estar-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|AUX 3|13|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|MARK 8|3|ADVCL 9|10|DET 10|8|NSUBJ 11|13|CC 12|13|ADVMOD 13|3|CONJ 14|3|PUNCT
+*CES:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	05
+*CHI:	y luego (.) (.) (.) al perro que se le atora (.) el frasco .
+%mor:	cconj|y adv|luego det|al-Masc-Def-Art noun|perro-Masc pron|que-Rel-S1 pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 verb|atorar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|frasco-Masc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|10|ROOT 5|8|NSUBJ 6|8|EXPL-PV 7|8|OBJ 8|4|ACL 9|10|DET 10|8|OBJ 11|4|PUNCT
+*CHI:	y ya no se lo puede quitar .
+%mor:	cconj|y adv|ya adv|no pron|él-Prs-Acc-S3 pron|él-Prs-Acc-S3 aux|poder-Fin-Ind-Pres-S3 verb|quitar-Inf-S .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|7|ADVMOD 4|7|OBL-ARG 5|7|OBJ 6|7|AUX 7|7|ROOT 8|7|PUNCT
+*CES:	sí ?
+%mor:	intj|sí ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y él es el que se está ahogando .
+%mor:	cconj|y pron|él-Prs-AccNom-S3 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art pron|que-Rel-S1 pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|ahogar-Ger-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|8|DET 5|8|NSUBJ 6|8|EXPL-PV 7|8|AUX 8|3|CCOMP 9|3|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	06
+*CHI:	y luego <se está> [//] el perro se cayó de la ventana .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-S3 adp|de det|el-Fem-Def-Art noun|ventana-Fem .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+@G:	07
+*CHI:	y cuando se cae el niño se enoja .
+%mor:	cconj|y sconj|cuando pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|enojar-Fin-Ind-Pres-S3 .
+%gra:	1|8|ADVMOD 2|4|MARK 3|4|EXPL-PV 4|8|ADVCL 5|6|DET 6|4|NSUBJ 7|8|EXPL-PV 8|8|ROOT 9|8|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y luego no puede .
+%mor:	cconj|y adv|luego adv|no verb|poder-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	y luego el niño se enoja y no recoge los vidrios .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|niño-Masc pron|él-Prs-Acc-S3 verb|enojar-Fin-Ind-Pres-S3 cconj|y adv|no verb|recoger-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|vidrio-Masc-Plur .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|11|ROOT 7|9|CC 8|9|ADVMOD 9|6|CONJ 10|11|DET 11|9|OBJ 12|6|PUNCT
+*CES:	&=rie sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	08
+*CHI:	y ahí ya le están gritando al sapo porque se le escapó .
+%mor:	cconj|y adv|ahí adv|ya pron|él-Prs-Dat-S3 aux|estar-Fin-Ind-Pres-P3 verb|gritar-Ger-S det|al-Masc-Def-Art noun|sapo-Masc sconj|porque pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 verb|escapar-Fin-Ind-Past-S3 .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|ADVMOD 4|6|OBJ 5|6|AUX 6|12|ROOT 7|8|DET 8|6|NSUBJ 9|12|MARK 10|12|EXPL-PV 11|12|OBJ 12|6|ADVCL 13|6|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y el perro está aullando .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc aux|estar-Fin-Ind-Pres-S3 verb|aullar-Ger-S .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CES:	ujúm .
+%mor:	noun|ujúm-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	09
+*CHI:	y ahí el niño está molestando al sap(o) <al> [/] (.) al castor .
+%mor:	cconj|y adv|ahí det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|molestar-Ger-S det|al-Masc-Def-Art noun|sapo-Masc det|al-Masc-Def-Art noun|castor-Masc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|10|ROOT 7|8|DET 8|6|OBJ 9|10|DET 10|6|OBJ 11|6|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	10
+*CHI:	y sale el castor <y lo> [/] y lo muerde .
+%mor:	cconj|y verb|salir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art noun|castor-Masc cconj|y pron|él-Prs-Acc-S3 verb|mordar-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CC 6|7|OBJ 7|2|CONJ 8|2|PUNCT
+*CHI:	y el perro quiere alcanzar ese panal .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|querer-Fin-Ind-Pres-S3 verb|alcanzar-Inf-S det|ese-Masc-Def-Dem noun|panal-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|4|XCOMP 6|7|DET 7|5|OBJ 8|4|PUNCT
+@G:	11
+*CHI:	y luego que ya se le cayó el panal .
+%mor:	cconj|y adv|luego sconj|que adv|ya pron|él-Prs-Acc-S3 pron|él-Prs-Dat-S3 verb|caer-Fin-Ind-Past-S3 det|el-Masc-Def-Art noun|panal-Masc .
+%gra:	1|7|ADVMOD 2|1|FIXED 3|7|MARK 4|7|ADVMOD 5|7|EXPL-PASS 6|7|OBJ 7|9|ROOT 8|9|DET 9|7|NSUBJ 10|7|PUNCT
+*CHI:	y las abejas lo están persiguiendo .
+%mor:	cconj|y det|el-Fem-Def-Art noun|abejas-Fem-Plur pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-P3 verb|perseguir-Ger-S .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|OBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y el niño está molestando a un búho .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc aux|estar-Fin-Ind-Pres-S3 verb|molestar-Ger-S adp|a det|uno-Masc-Ind-Art noun|búho-Masc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBJ 9|5|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	12
+*CHI:	y el búho ya lo tiró (.) (.) y el perro lo están persiguiendo las abejas .
+%mor:	cconj|y det|el-Masc-Def-Art noun|búho-Masc adv|ya pron|él-Prs-Acc-S3 verb|tirar-Fin-Ind-Past-S3 cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-P3 verb|perseguir-Ger-S det|el-Fem-Def-Art noun|abejas-Fem-Plur .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|ADVMOD 5|6|OBJ 6|14|ROOT 7|12|CC 8|9|DET 9|12|NSUBJ 10|12|OBJ 11|12|AUX 12|6|CONJ 13|14|DET 14|12|NSUBJ 15|6|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	13
+*CHI:	y el niño (.) (.) quiere sacar al venado .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc verb|querer-Fin-Ind-Pres-S3 verb|sacar-Inf-S det|al-Masc-Def-Art noun|venado-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|4|XCOMP 6|7|DET 7|5|OBJ 8|4|PUNCT
+*CHI:	y se está agarrando de los cuernos del venado .
+%mor:	cconj|y pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|agarrar-Ger-S adp|de det|el-Masc-Def-Art noun|cuerno-Masc-Plur det|del-Masc-Def-Art noun|venado-Masc .
+%gra:	1|4|ADVMOD 2|4|EXPL-IMPERS 3|4|AUX 4|9|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|7|NMOD 10|4|PUNCT
+*CHI:	y el perro (.) quiere el [//] (.) (.) (.) está buscando al sapo .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|querer-Fin-Ind-Pres-S3 aux|estar-Fin-Ind-Pres-S3 verb|buscar-Ger-S det|al-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|6|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|AUX 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y el búho (.) (.) (.) quiere picar al niño porque lo molestó .
+%mor:	cconj|y det|el-Masc-Def-Art noun|búho-Masc verb|querer-Fin-Ind-Pres-S3 verb|picar-Inf-S det|al-Masc-Def-Art noun|niño-Masc sconj|porque pron|él-Prs-Acc-S3 verb|molestar-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ROOT 5|4|XCOMP 6|7|DET 7|5|OBJ 8|10|MARK 9|10|OBJ 10|5|ADVCL 11|4|PUNCT
+*CES:	eso !
+%mor:	pron|ese-Dem-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	14
+*CHI:	y el venado ya sale .
+%mor:	cconj|y det|el-Masc-Def-Art noun|venado-Masc adv|ya verb|salir-Fin-Ind-Pres-S3 .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+@G:	15
+*CHI:	y el perro se está buscando al venado entre las rocas .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-S3 verb|buscar-Ger-S det|al-Masc-Def-Art noun|venado-Masc adp|entre det|el-Fem-Def-Art noun|roca-Fem-Plur .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|EXPL-PASS 5|6|AUX 6|11|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|6|PUNCT
+*CES:	sí !
+%mor:	intj|sí !
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	16
+*CHI:	y luego el venado está persiguiendo al perro .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|venado-Masc aux|estar-Fin-Ind-Pres-S3 verb|perseguir-Ger-S det|al-Masc-Def-Art noun|perro-Masc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*CES:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	17
+*CHI:	y luego <los los> [/] los tiró (.) porque lo estaban molestando .
+%mor:	cconj|y adv|luego pron|él-Prs-Acc-P3 verb|tirar-Fin-Ind-Past-S3 sconj|porque pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Imp-P3 verb|molestar-Ger-S .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|OBJ 4|8|ROOT 5|8|MARK 6|8|OBJ 7|8|AUX 8|4|ADVCL 9|4|PUNCT
+*CES:	ajá (.) qué .
+%mor:	intj|ajá pron|qué-Int-S1 .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+@G:	17
+*CHI:	++ <y se cayeron al agua> [<] .
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-P3 det|al-Masc-Def-Art noun|agua-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*CES:	sí qué pasa ?
+%mor:	intj|sí pron|qué-Int-S1 verb|pasar-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ADVCL 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+@G:	18
+*CHI:	que cuando ya se cayeron (.) el perro se (.) el el perro cayó arriba del niño .
+%mor:	sconj|que sconj|cuando adv|ya pron|él-Prs-Acc-S3 verb|caer-Fin-Ind-Past-P3 det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 det|el-Masc-Def-Art det|el-Masc-Def-Art noun|perro-Masc verb|caer-Fin-Ind-Past-S3 adv|arriba det|del-Masc-Def-Art noun|niño-Masc .
+%gra:	1|12|MARK 2|5|MARK 3|5|ADVMOD 4|5|EXPL-PASS 5|12|ADVCL 6|7|DET 7|5|NSUBJ 8|12|EXPL-PV 9|11|DET 10|11|DET 11|12|NSUBJ 12|15|ROOT 13|12|ADVMOD 14|15|CASE 15|12|OBL 16|12|PUNCT
+@G:	19
+*CHI:	y luego <el> [/] (.) el perro se subió en la cabeza del niño .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|perro-Masc pron|él-Prs-Acc-S3 verb|subir-Fin-Ind-Past-S3 adp|en det|el-Fem-Def-Art noun|cabeza-Fem adp|del noun|niño-Masc .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|11|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|11|CASE 11|9|NMOD 12|6|PUNCT
+*CES:	ujúm .
+%mor:	noun|ujúm-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	20
+*CHI:	y luego el niño (.) agarra y va a molestar a unos (.) sapos .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|niño-Masc verb|agarra-Fin-Ind-Pres-S3 cconj|y verb|ir-Fin-Ind-Pres-S3 adp|a verb|molestar-Inf-S adp|a det|uno-Masc-Ind-Art noun|sapo-Masc-Plur .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|12|ROOT 6|7|CC 7|5|CONJ 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|DET 12|9|OBJ 13|5|PUNCT
+*CHI:	y el perro también .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc adv|también .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	21
+*CHI:	y luego ya se están asomando .
+%mor:	cconj|y adv|luego adv|ya pron|él-Prs-Acc-S3 aux|estar-Fin-Ind-Pres-P3 verb|asomar-Ger-S .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|ADVMOD 4|6|EXPL-PASS 5|6|AUX 6|6|ROOT 7|6|PUNCT
+*CES:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	22
+*CHI:	ya que vieron a los sapos los sapos se ponen contentos .
+%mor:	adv|ya sconj|que verb|ver-Fin-Ind-Past-P3 adp|a det|el-Masc-Def-Art noun|sapo-Masc-Plur det|el-Masc-Def-Art noun|sapo-Masc-Plur pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Pres-P3 adj|contento-Pos-P1 .
+%gra:	1|3|MARK 2|1|FIXED 3|10|ADVCL 4|6|CASE 5|6|DET 6|3|OBJ 7|8|DET 8|10|NSUBJ 9|10|EXPL-PV 10|11|ROOT 11|10|OBJ 12|10|PUNCT
+@G:	23
+*CHI:	y el niño ya se va a pasar (.) y tienen sus sapitos .
+%mor:	cconj|y det|el-Masc-Def-Art noun|niño-Masc adv|ya pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 adp|a verb|pasar-Inf-S cconj|y verb|tener-Fin-Ind-Pres-P3 det|su-Def-Prs noun|sapito-Masc-Plur .
+%gra:	1|6|ADVMOD 2|3|DET 3|6|NSUBJ 4|6|ADVMOD 5|8|EXPL-PV 6|12|ROOT 7|8|MARK 8|6|XCOMP 9|10|CC 10|8|CONJ 11|12|DET 12|10|OBJ 13|6|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	24
+*CHI:	y luego (.) el niño tiene un sapo en la mano .
+%mor:	cconj|y adv|luego det|el-Masc-Def-Art noun|niño-Masc verb|tener-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art noun|sapo-Masc adp|en det|el-Fem-Def-Art noun|mano-Fem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*CHI:	y el perro quiere jugar con el sapo .
+%mor:	cconj|y det|el-Masc-Def-Art noun|perro-Masc verb|querer-Fin-Ind-Pres-S3 verb|jugar-Inf-S adp|con det|el-Masc-Def-Art noun|sapo-Masc .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y acá está la mamá sapo y el papá sapo y sus hijitos .
+%mor:	cconj|y adv|acá verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art noun|mamá-Fem noun|sapo-Masc cconj|y det|el-Masc-Def-Art noun|papá-Masc noun|sapo-Masc cconj|y det|su-Def-Prs noun|hijito-Masc-Plur .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|13|ROOT 4|5|DET 5|3|NSUBJ 6|5|APPOS 7|9|CC 8|9|DET 9|5|CONJ 10|9|APPOS 11|13|CC 12|13|DET 13|5|CONJ 14|3|PUNCT
+*CES:	ajá .
+%mor:	noun|ajá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	y se acabó !
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|acabar-Fin-Ind-Past-S3 !
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+*CES:	y se acabó !
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|acabar-Fin-Ind-Past-S3 !
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+@End
